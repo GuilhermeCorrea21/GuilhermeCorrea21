@@ -23,13 +23,13 @@ Meu nome é Guilherme Correa Gomes, aluno do curso de Análise e desenvolvimento
 
 ## Minhas estatísticas
 <div align="center">
-  <a href="https://github.com/ThaissaDrumond">
+  <a href="https://github.com/GuilhermeCorrea21">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaissaDrumond&layout=compact&langs_count=7&theme=jolly"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaissaDrumond&show_icons=true&theme=jolly&include_all_commits=true&hide=,prs,issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCorrea21&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCorrea21&show_icons=true&theme=jolly&include_all_commits=true&hide=,prs,issues&count_private=true"/>
 </div>
 
-  ![Snake animation](https://github.com/ThaissaDrumond/thaissadrumond/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuilhermeCorrea21/GuilhermeCorrea21/blob/output/github-contribution-grid-snake.svg)
 
 ## Visualizações
 <p>
