@@ -22,7 +22,12 @@ Meu nome é Guilherme Correa Gomes, aluno do curso de Análise e desenvolvimento
 </ul>
 
 ## Minhas estatísticas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCorrea21&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCorrea21&show_icons=true)
+<div align="center">
+  <a href="https://github.com/ThaissaDrumond">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaissaDrumond&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaissaDrumond&show_icons=true&theme=jolly&include_all_commits=true&hide=,prs,issues&count_private=true"/>
+</div>
 
   ![Snake animation](https://github.com/ThaissaDrumond/thaissadrumond/blob/output/github-contribution-grid-snake.svg)
 
