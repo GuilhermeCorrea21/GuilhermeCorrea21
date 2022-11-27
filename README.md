@@ -24,6 +24,8 @@ Meu nome é Guilherme Correa Gomes, aluno do curso de Análise e desenvolvimento
 ## Minhas estatísticas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCorrea21&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCorrea21&show_icons=true)
 
+  ![Snake animation](https://github.com/ThaissaDrumond/thaissadrumond/blob/output/github-contribution-grid-snake.svg)
+
 ## Visualizações
 <p>
   <img src="https://gpvc.arturio.dev/GuilhermeCorrea21" alt="profile views">
